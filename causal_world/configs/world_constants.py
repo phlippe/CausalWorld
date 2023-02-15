@@ -37,9 +37,9 @@ class WorldConstants:
         'robot_finger_120_link_2': 12,
         'robot_finger_120_link_3': 13,
         'robot_finger_300_link_0': 14,
-        'robot_finger_300_link_1': 15,
-        'robot_finger_300_link_2': 16,
-        'robot_finger_300_link_3': 17
+        'robot_finger_300_link_1': 18,
+        'robot_finger_300_link_2': 19,
+        'robot_finger_300_link_3': 20
     }
 
     JOINT_NAMES = [
